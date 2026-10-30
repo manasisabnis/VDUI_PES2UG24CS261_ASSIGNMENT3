@@ -233,3 +233,4 @@ Additional notebooks, datasets, and supporting files may be present depending on
 ## Summary
 
 These activities run locally with VS Code, Python, and Jupyter. A dedicated Python environment and correctly configured dataset paths ensure reproducible execution across the Unit 3 notebooks.
+
